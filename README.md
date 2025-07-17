@@ -36,7 +36,7 @@ A simple **flight search mobile app** built using **React Native CLI** and **Sky
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/flight-app.git
+   git clone https://github.com/ashok654-verma/FligthAppDemo.git
    cd flight-app
    ```
 
